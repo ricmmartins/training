@@ -1,1 +1,1 @@
-# Demonstration resources
+# Technical Training Demo Resources
