@@ -1,2 +1,1 @@
-# Demonstration resources for trainings
-
+# Demonstration resources
