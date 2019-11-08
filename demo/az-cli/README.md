@@ -1,5 +1,7 @@
 # How to create a Linux VM on Azure using CLI
 
+This demo will deploy an Ubuntu Server with PHP, Nginx and an [application](https://github.com/ricmmartins/simple-php-app) deployed.
+
 From the Azure portal, let's open the Cloud Shell
 
 <img src=../az-cli/pictures/1.png>
@@ -30,6 +32,23 @@ In this case:
 ```bash
 bash createvm.sh rg-cli eastus vm-01
 ```
+
+So after a few seconds we can see as below:
+
+<img src=../az-cli/pictures/4.png>
+
+Then we can go to resource group, select the VM and get their public ip address to access:
+
+<img src=../az-cli/pictures/5.png>
+
+<img src=../az-cli/pictures/6.png>
+
+Lets check:
+
+<img src=../az-cli/pictures/7.png>
+
+
+
 
 
 
