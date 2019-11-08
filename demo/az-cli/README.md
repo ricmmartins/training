@@ -19,7 +19,8 @@ wget https://raw.githubusercontent.com/ricmmartins/azure-arm-template/master/cre
 
 Now lets run the script:
 
-*Be aware that this script uses the resource group name, location and virtual machine name as paramaters*
+*Be aware that this script uses the resource group name, location and virtual machine name as paramaters. So you need to run as below:
+createvm.sh <resource group name> <location> <vmname>*
 
 ```bash
 bash createvm.sh rg-cli eastus vm-01
