@@ -16,17 +16,17 @@ After click on that, you will be redirected to Azure Portal:
 
 <img src=../qna/pictures/4.png>
 
-  Now fill the related fields:
-		+ A name for the QnA Service
-		+ Choose a subscription
-		+ Choose the Pricing Tier (F0 is enough)
-		+ Choose/Create a resource group
-		+ Choose the resource group location if you are creating a new one
-		+ Choose the Azure Search pricing tier (F is enough)
-		+ Choose the location for the Azure Search Service
-		+ Choose a name for the WebApp
-		+ Choose a location for the WebApp
-        + Choose if you want Application Insights (not required)
+Now fill the related fields:
+- A name for the QnA Service
+- Choose a subscription
+- Choose the Pricing Tier (F0 is enough)
+- Choose/Create a resource group
+- Choose the resource group location if you are creating a new one
+- Choose the Azure Search pricing tier (F is enough)
+- Choose the location for the Azure Search Service
+- Choose a name for the WebApp
+- Choose a location for the WebApp
+- Choose if you want Application Insights (not required)
 
 <img src=../qna/pictures/5.png>
 
