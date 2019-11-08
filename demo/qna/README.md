@@ -4,3 +4,8 @@ Go to http://www.qnamaker.ai then click to sign in. Use the same credentials fro
 
 <img src=../qna/pictures/1.png>
 
+Now click to create the knowledge base
+
+<img src=../qna/pictures/2.png>
+
+
