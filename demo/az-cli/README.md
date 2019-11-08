@@ -14,3 +14,15 @@ To do this, run the following command:
 wget https://raw.githubusercontent.com/ricmmartins/azure-arm-template/master/createvm.sh
 ```
 
+<img src=../az-cli/pictures/3.png>
+
+Now lets run the script:
+
+*Be aware that this script uses the resource group name, location and virtual machine name as paramaters*
+
+```bash
+bash createvm.sh rg-cli eastus vm-01
+```
+
+
+
